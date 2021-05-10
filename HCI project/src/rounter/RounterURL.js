@@ -13,6 +13,7 @@ class RounterURL extends Component {
                 <Router>
                     <div className="App">
                         <Route path="/" exact component={Home} />
+                        <Route path="/home" exact component={Home} />
                         <Route path="/vietnam" exact component={VietNam} />
                         <Route path="/world" exact component={World} />
                         <Route path="/vaccin" exact component={Vaccin} />
