@@ -1,0 +1,71 @@
+.infection-header {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+.infection-number {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1;
+  }
+.paragraph_color_text_subnews {
+    float: left;
+    color: #000000;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 800;
+    margin-top: 5px;
+  }
+.padding-space {
+    padding: 10px;
+    margin-top: 20px;
+  }
+.paragraph_color_text_mainnews {
+    float: left;
+    color: #000000;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: 5px;
+  }
+.time-text {
+    opacity: 70%;
+    float: left;
+    font-size: 12px;
+    margin-top: -20px;
+  }
+.col-md-6.col-lg-8.border-right-blue {
+    border-right: 1px solid var(--blue);
+  }
+.first_row_news {
+    border-bottom: 2px solid var(--blue);
+    color: var(--blue);
+    text-align: left;
+    height: 43.4px;
+    padding-bottom: 10px;
+  }
+.paragraph_color_text_mainnews_infor {
+    font-size: 15px;
+    float: left;
+    margin-top: -30px;
+  }
+.main_title {
+    border-bottom: 2px solid var(--red);
+    color: var(--red);
+    text-align: left;
+  }
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
