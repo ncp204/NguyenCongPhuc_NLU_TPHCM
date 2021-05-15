@@ -67,9 +67,7 @@ font-weight: 500;
 }
 
 .row-care-1 {
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
+   display: inline-flex;
 }
 
 .col.care-1 {
