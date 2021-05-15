@@ -1,0 +1,174 @@
+/* chinh css the div home chung */
+
+.home {
+    background-color: white;
+    padding-top: 100px;
+}
+
+a {
+    color: #003893;
+}
+
+a:hover {
+    color: red;
+}
+
+small {
+    color: rgb(72, 69, 69);
+}
+
+.title {
+    color: white;
+    background-color: #f77f00;
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    padding-top: 5px
+}
+
+.ctrl {
+    height: 370px;
+}
+
+.fcol {
+    text-align: justify;
+}
+
+.first-row {
+    border-bottom: 2px solid var(--red);
+    color: var(--red);
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+/* css the div home thu 1 */
+
+.home-div.num1 {
+    margin-bottom: 100px;
+}
+
+.col.focus {
+    padding: 0px;
+    margin: 0 15px 0px;
+    border-bottom: 1px solid var(--secondary);
+}
+
+.content-focus{
+    font-weight: bold;
+}
+
+.content-care-1{
+font-weight: 500;
+}
+
+.col.care {
+    padding: 0px;
+}
+
+.row-care-1 {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.col.care-1 {
+    padding: 0px;
+    margin-right: 5px;
+    width: 100%;
+    height: 497px;
+    display: table-cell;
+    border-bottom: 1px solid var(--secondary);
+}
+
+.img-care{
+width: 90%;
+}
+
+.content-care{
+    width: 90%;
+}
+
+.title.care {
+    margin-right: 20px;
+}
+
+/* the div home thu 2 */
+
+.col-card {
+    width: 280px;
+    height: 310px;
+    margin-bottom: 120px;
+}
+
+.card-body {
+    height: 310px;
+}
+
+.card.cards-shadow {
+    box-shadow: 2px 2px 30px #aaaaaa;
+}
+
+.card.cards-shadow.cards-hover:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 99;
+}
+
+.card-header {
+    background-color: #f77f00;
+}
+
+/* css the div home thu 3 */
+
+.first-row.div03 {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 1.5rem;
+}
+
+.col-div03 {
+    box-shadow: -7px 4px 15px 0px #a2b0bf;
+    border-radius: 10px;
+    margin-right: 55px;
+    margin-bottom: 100px;
+}
+
+a.div03 {
+    color: red;
+}
+
+a.div03:hover {
+    color: #f77f00;
+}
+
+.frow-col-div03 {
+    border-bottom: 1px solid var(--secondary);
+    color: #000000;
+}
+
+.btn-home {
+    margin-bottom: 10px;
+}
+
+.btn01 {
+    background-color: #dc3545;
+}
+
+.btn02 {
+    background-color: #ffc107;
+}
+
+.btn03 {
+    background-color: #17a2b8;
+}
+
+.btn04 {
+    background-color: #28a745;
+}
+
+.btn05 {
+    background-color: #007bff;
+}
