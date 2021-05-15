@@ -3,7 +3,7 @@ import{BrowserRouter as Router, Route} from 'react-router-dom';
 import Download from '../component/Download';
 import Home from '../component/Home/Home';
 import Vaccin from '../component/Vaccin';
-import VietNam from '../component/VietNam';
+import VietNam from '../component/VietNam/VietNam';
 import World from '../component/World';
 
 class RounterURL extends Component {

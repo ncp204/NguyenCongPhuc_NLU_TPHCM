@@ -1,0 +1,35 @@
+.div-News {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.News-link {
+    color: black;
+}
+a.News-link :hover {
+    color: darkblue;
+}
+
+.text-left {
+    margin-bottom: 10px;
+    color: rgb(0,123,255);
+}
+.news-img {
+    width: 710px;
+}
+img.news-img :hover {
+    width: 710px;
+}
+.text-center {
+    background-color: white;
+    color: black;
+    border: 1px solid #009cd7;
+}
+.src-ncv {
+    text-decoration: underline;
+}
+span.src-ncv:hover {
+    background-color: springgreen;
+}
+.tin-tuc {
+    margin-top: 20px;
+}
