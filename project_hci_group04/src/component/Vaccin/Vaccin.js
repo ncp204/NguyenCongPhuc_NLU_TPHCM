@@ -1,21 +1,14 @@
-import React, { Component } from "react";
-import MainNewsCV from "./MainNewsCV";
-import "./vaccin.css";
-import ExtraNewsVC from "./ExtraNewsVC";
-import MoreNewsVC from "./MoreNewsVC";
+import React, { Component } from 'react';
+import MainVC from "./MainVC";
 
 class Vaccin extends Component {
-  render() {
-    return (
-      <div>
-        <section className="sectionVC">
-          <MainNewsCV />
-          <ExtraNewsVC />
-          <MoreNewsVC />
-        </section>
-      </div>
-    );
-  }
+    render() {
+        return (
+            <div>
+                <MainVC/>
+            </div>
+        );
+    }
 }
 
 export default Vaccin;
