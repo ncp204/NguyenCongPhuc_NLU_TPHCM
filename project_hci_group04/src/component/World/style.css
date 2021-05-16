@@ -1,9 +1,9 @@
-.infection-header {
+.infection-header-world {
     font-size: 20px;
     font-weight: 600;
   }
   
-.infection-number {
+.infection-number-world {
     font-size: 35px;
     font-weight: 700;
     line-height: 1;
@@ -16,7 +16,7 @@
     font-weight: 800;
     margin-top: 5px;
   }
-.padding-space {
+.padding-space-world {
     padding: 10px;
     margin-top: 20px;
   }
@@ -54,7 +54,10 @@
     color: var(--red);
     text-align: left;
   }
-  
+
+.padding-bottom {
+   margin-bottom: -50px;
+}
   
 
 

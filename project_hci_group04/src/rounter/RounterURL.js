@@ -4,7 +4,7 @@ import Download from '../component/Download';
 import Home from '../component/Home/Home';
 import Vaccin from '../component/Vaccin/Vaccin';
 import VietNam from '../component/VietNam/VietNam';
-import World from '../component/World';
+import World from '../component/World/worldSession';
 
 class RounterURL extends Component {
     render() {
